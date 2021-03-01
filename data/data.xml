@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+    <!-- MONDAY -->
+    <pair>
+        <teacher>Abduvali</teacher>
+        <subject>Math</subject>
+        <room>305</room>
+    </pair>
+    <!-- TUESDAY -->
+    <pair>
+        <teacher>Hasan</teacher>
+        <subject>IT</subject>
+        <room>405</room>
+    </pair>
+    <!-- WEDNESDAY -->
+    <pair>
+        <teacher>Jamol</teacher>
+        <subject>Physics</subject>
+        <room>205</room>
+    </pair>
+    <!-- THURSDAY -->
+    <pair>
+        <teacher>Rafiq</teacher>
+        <subject>Technical Drawing</subject>
+        <room>407</room>
+    </pair>
+    <!-- FRIDAY -->
+    <pair>
+        <teacher>Hasan</teacher>
+        <subject>IT</subject>
+        <room>405</room>
+    </pair>
+    <!-- SATURDAY -->
+    <pair>
+        <teacher>Abduvali</teacher>
+        <subject>Math</subject>
+        <room>302</room>
+    </pair>
+</timetable>
